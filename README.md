@@ -1,3 +1,4 @@
+English | [中文](./README_CN.md)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
