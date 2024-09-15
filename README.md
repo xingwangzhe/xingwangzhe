@@ -36,8 +36,8 @@ English | [中文](./README_CN.md)
 #### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
 
-</td></tr></table>   
- 
-### Record
+</tr></td></table>
 
+### Record
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
