@@ -32,7 +32,7 @@
 <td valign="top" width="32%">
 
 #### 使用的语言
-[使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
 
 </td></tr></table>   
  
