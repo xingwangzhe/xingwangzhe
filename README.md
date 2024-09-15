@@ -14,30 +14,17 @@
 
 #### Learning now
 <div align="center">  
-  <a href="https://www.java.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />
-  </a>  
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />
-  </a>
-  <!-- 添加 HTML5 图标 -->
-  <a href="https://html.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />
-  </a>
-  <!-- 添加 CSS3 图标 -->
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" />
-  </a>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>
+  <a href="https://html.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
 </div>
 
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="32%">
+  
 #### Plan  
 <div align="center">  
-  <!-- 添加 Python 图标 -->
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>
 
 </td><td valign="top" width="32%">
 
@@ -45,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
 
 </td></tr></table>   
-
+ 
 ### Record
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
