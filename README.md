@@ -10,7 +10,7 @@
 - 🔭 My ideal pursuit: Astronomy Physics Astrophysics
 
 ### Learning now
-<table><tr><td valign="top" width="32%">
+<table><tr><td valign="top" width="33%">
   
 <div align="center">  
   <a href="https://www.java.com/" target="_blank">
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-</td><td valign="top" width="32%">
+</td><td valign="top" width="33%">
 
 #### Plan  
 <div align="center">  
