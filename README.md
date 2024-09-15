@@ -9,6 +9,9 @@
 - 📫 How to reach me: xingwangzhe@outlook.com
 - 🔭 My ideal pursuit: Astronomy Physics Astrophysics
 
+### My Skill Set  
+<table><tr><td valign="top" width="32%">
+
 ### Learning now
 <table><tr><td valign="top" width="33%">
   
