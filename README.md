@@ -6,7 +6,7 @@ English | [中文](./README_CN.md)
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently studying at Northeastern University(China)
-- 💻 My Blog (not update often):[blog](https://xingwangzhe.github.io)
+- 💻 My Blog (not update often):[姓王者的博客](https://xingwangzhe.github.io)
 - 📫 How to reach me: xingwangzhe@outlook.com
 - 🔭 My ideal pursuit: Computer Graphics Computer Science Game Production
 
@@ -22,6 +22,7 @@ English | [中文](./README_CN.md)
   <a href="https://html.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="45" /></a>
 </div>
 
 </td>
