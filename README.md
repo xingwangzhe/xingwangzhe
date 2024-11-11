@@ -16,7 +16,9 @@ English | [中文](./README_CN.md)
 - 📫 How to reach me: xingwangzhe@outlook.com
 - 🔭 My ideal pursuit: Computer Graphics Computer Science Game Production
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
 <table><tr><td valign="top" width="32%">
