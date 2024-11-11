@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 # 到目前为止，已有![访客计数](https://profile-counter.glitch.me/xingwangzhe/count.svg) 次访问
 
 ### 你可以从此大概了解我：
