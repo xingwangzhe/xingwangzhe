@@ -18,13 +18,13 @@ English | [中文](./README_CN.md)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [抓取个人博客文章目录到github主页](https://xingwangzhe.fun/posts/10908/)
 - [制作github贪吃蛇贡献图](https://xingwangzhe.fun/posts/16664/)
 - [git入门学习](https://xingwangzhe.fun/posts/63416/)
 - [css-flex样式学习推荐](https://xingwangzhe.fun/posts/7658/)
 - [数据结构-线性表链式存储](https://xingwangzhe.fun/posts/13512/)
 - [数据结构-线性表顺序存储](https://xingwangzhe.fun/posts/29693/)
 - [Hexo Pro体验](https://xingwangzhe.fun/posts/32951/)
-- [防止镜像，保护个人网站](https://xingwangzhe.fun/posts/56845/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
