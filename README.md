@@ -28,6 +28,7 @@ English | [中文](./README_CN.md)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
+<div style="display:flex;justify-content:center;">
 <table><tr>
 
 <td valign="top" width="32%">
@@ -60,11 +61,12 @@ English | [中文](./README_CN.md)
 </div>
 </td>
 
-
 </table>
 
 #### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+
+</div>
 
 
 ### Record
