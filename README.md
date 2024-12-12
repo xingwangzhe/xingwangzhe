@@ -14,9 +14,9 @@
 
 | | | |
 | --- | --- | --- |
-|    [![hexo-theme-wang](https://github-readme-stats.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=hexo-theme-wang)](https://github.com/anuraghazra/hexo-theme-wang)   |   [![turing-machine](https://github-readme-stats.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=turing_machine)](https://github.com/xingwangzhe/turing_machine)    |
+| [![hexo-theme-wang](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=hexo-theme-wang)](https://github.com/anuraghazra/hexo-theme-wang)   |   [![turing-machine](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=turing_machine)](https://github.com/xingwangzhe/turing_machine)    |
 
-
+![Top Langs](https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby)
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently studying at Northeastern University(China)
@@ -72,8 +72,8 @@
 
 </table>
 
-#### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+
+
 
 
 
