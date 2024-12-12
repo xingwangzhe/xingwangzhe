@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [使用Godot实现单带图灵机模型](https://xingwangzhe.fun/posts/58216/)
-- [抓取个人博客文章目录到github主页](https://xingwangzhe.fun/posts/10908/)
-- [制作github贪吃蛇贡献图](https://xingwangzhe.fun/posts/16664/)
-- [git入门学习](https://xingwangzhe.fun/posts/63416/)
-- [css-flex样式学习推荐](https://xingwangzhe.fun/posts/7658/)
-- [数据结构-线性表链式存储](https://xingwangzhe.fun/posts/13512/)
-- [数据结构-线性表顺序存储](https://xingwangzhe.fun/posts/29693/)
+- [bat脚本使用教程](https://xingwangzhe.fun/posts/50463/)
+- [node.js:简单的HTTP服务器](https://xingwangzhe.fun/posts/45780/)
+- [node.js初入](https://xingwangzhe.fun/posts/36480/)
+- [重构:hexo-theme-wang](https://xingwangzhe.fun/posts/42609/)
+- [开往:到了](https://xingwangzhe.fun/posts/5398/)
+- [hexo-theme-wang:一个简约的暗色主题](https://xingwangzhe.fun/posts/59667/)
+- [是的，开源真的很酷](https://xingwangzhe.fun/posts/48478/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
