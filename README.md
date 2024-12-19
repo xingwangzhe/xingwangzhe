@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [node.js:试试express](https://xingwangzhe.fun/posts/8479/)
 - [hexo-graph:优秀的hexo统计插件](https://xingwangzhe.fun/posts/55581/)
 - [bat脚本使用教程](https://xingwangzhe.fun/posts/50463/)
 - [node.js:简单的HTTP服务器](https://xingwangzhe.fun/posts/45780/)
 - [node.js初入](https://xingwangzhe.fun/posts/36480/)
 - [重构:hexo-theme-wang](https://xingwangzhe.fun/posts/42609/)
 - [开往:到了](https://xingwangzhe.fun/posts/5398/)
-- [hexo-theme-wang:一个简约的暗色主题](https://xingwangzhe.fun/posts/59667/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
