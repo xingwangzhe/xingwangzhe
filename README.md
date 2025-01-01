@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [新年新气象，新年第一章](https://xingwangzhe.fun/posts/51154/)
 - [再见2024，你好2025](https://xingwangzhe.fun/posts/63165/)
 - [hexo-theme-wang:应该是最后一个大版本了](https://xingwangzhe.fun/posts/38915/)
 - [正则表达式学习](https://xingwangzhe.fun/posts/13105/)
 - [node.js:试试express](https://xingwangzhe.fun/posts/8479/)
 - [hexo-graph:优秀的hexo统计插件](https://xingwangzhe.fun/posts/55581/)
 - [bat脚本使用教程](https://xingwangzhe.fun/posts/50463/)
-- [node.js:简单的HTTP服务器](https://xingwangzhe.fun/posts/45780/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
