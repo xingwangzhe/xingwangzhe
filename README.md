@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [开源的像素沙盒游戏:Luanti &lpar;formerly Minetest&rpar;](https://xingwangzhe.fun/posts/55555/)
 - [海岛机器人农场试玩](https://xingwangzhe.fun/posts/10867/)
 - [hexo-tips:快捷小贴士插件](https://xingwangzhe.fun/posts/8367/)
 - [hexo-graph:新增分类树状图](https://xingwangzhe.fun/posts/42695/)
 - [新年新气象，新年第一章](https://xingwangzhe.fun/posts/51154/)
 - [再见2024，你好2025](https://xingwangzhe.fun/posts/63165/)
 - [hexo-theme-wang:应该是最后一个大版本了](https://xingwangzhe.fun/posts/38915/)
-- [正则表达式学习](https://xingwangzhe.fun/posts/13105/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
