@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [离散数学:代数系统&lpar;二&rpar;](https://xingwangzhe.fun/posts/42789/)
 - [离散数学:代数系统&lpar;一&rpar;](https://xingwangzhe.fun/posts/26496/)
 - [搞笑steam盗号人机](https://xingwangzhe.fun/posts/36702/)
 - [Webmapview:一个我的世界内置网页地图浏览Fabric模组](https://xingwangzhe.fun/posts/4628/)
 - [SEO优化:期待拯救我的bing搜索](https://xingwangzhe.fun/posts/8811/)
 - [bing搜索结果消失，持续记录](https://xingwangzhe.fun/posts/27250/)
 - [github:action/workflow自动发布npm包](https://xingwangzhe.fun/posts/5561/)
-- [开源的像素沙盒游戏:Luanti &lpar;formerly Minetest&rpar;](https://xingwangzhe.fun/posts/55555/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
