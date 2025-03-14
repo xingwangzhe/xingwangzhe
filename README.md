@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [不是你,而是我们:bing又一次崩溃](https://xingwangzhe.fun/posts/48826/)
 - [vscode插件开发心得:RustedWarfareModSupport](https://xingwangzhe.fun/posts/65110/)
 - [通识学习:形式语言与自动机,布尔代数与数进制](https://xingwangzhe.fun/posts/10621/)
 - [离散数学:代数系统&lpar;二&rpar;](https://xingwangzhe.fun/posts/42789/)
 - [离散数学:代数系统&lpar;一&rpar;](https://xingwangzhe.fun/posts/26496/)
 - [搞笑steam盗号人机](https://xingwangzhe.fun/posts/36702/)
 - [Webmapview:一个我的世界内置网页地图浏览Fabric模组](https://xingwangzhe.fun/posts/4628/)
-- [SEO优化:期待拯救我的bing搜索](https://xingwangzhe.fun/posts/8811/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
