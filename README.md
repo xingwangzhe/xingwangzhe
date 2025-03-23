@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [离散数学:子群的陪集及拉格朗日定理](https://xingwangzhe.fun/posts/14001/)
+- [离散数学:子群及其证明](https://xingwangzhe.fun/posts/52401/)
+- [离散数学:群的定义及性质](https://xingwangzhe.fun/posts/62320/)
+- [离散数学:半群,独异点](https://xingwangzhe.fun/posts/25427/)
 - [《人工智能生成合成内容标识办法》与个人博客--我们应该做什么?](https://xingwangzhe.fun/posts/55594/)
 - [不是你,而是我们:bing又一次崩溃](https://xingwangzhe.fun/posts/48826/)
 - [vscode插件开发心得:RustedWarfareModSupport](https://xingwangzhe.fun/posts/65110/)
-- [通识学习:形式语言与自动机,布尔代数与数进制](https://xingwangzhe.fun/posts/10621/)
-- [离散数学:代数系统&lpar;二&rpar;](https://xingwangzhe.fun/posts/42789/)
-- [离散数学:代数系统&lpar;一&rpar;](https://xingwangzhe.fun/posts/26496/)
-- [搞笑steam盗号人机](https://xingwangzhe.fun/posts/36702/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
