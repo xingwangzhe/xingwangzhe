@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [编译原理:NFA转DFA](https://xingwangzhe.fun/posts/51944/)
+- [汇编语言程序设计:用vscode配置环境,简单命令](https://xingwangzhe.fun/posts/39790/)
+- [离散数学:格的基本概念](https://xingwangzhe.fun/posts/41696/)
+- [离散数学:环与域](https://xingwangzhe.fun/posts/60641/)
 - [离散数学:子群的陪集及拉格朗日定理](https://xingwangzhe.fun/posts/14001/)
 - [离散数学:子群及其证明](https://xingwangzhe.fun/posts/52401/)
 - [离散数学:群的定义及性质](https://xingwangzhe.fun/posts/62320/)
-- [离散数学:半群,独异点](https://xingwangzhe.fun/posts/25427/)
-- [《人工智能生成合成内容标识办法》与个人博客--我们应该做什么?](https://xingwangzhe.fun/posts/55594/)
-- [不是你,而是我们:bing又一次崩溃](https://xingwangzhe.fun/posts/48826/)
-- [vscode插件开发心得:RustedWarfareModSupport](https://xingwangzhe.fun/posts/65110/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
