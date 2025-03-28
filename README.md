@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [国产开源的文档转换器:MinerU](https://xingwangzhe.fun/posts/64756/)
+- [编译原理:FIRST集和FOLLOW集](https://xingwangzhe.fun/posts/8237/)
 - [编译原理:LL&lpar;1&rpar;文法](https://xingwangzhe.fun/posts/23217/)
 - [编译原理:文法转换](https://xingwangzhe.fun/posts/20304/)
 - [编译原理:NFA转DFA](https://xingwangzhe.fun/posts/51944/)
 - [汇编语言程序设计:用vscode配置环境,简单命令](https://xingwangzhe.fun/posts/39790/)
 - [离散数学:格的基本概念](https://xingwangzhe.fun/posts/41696/)
-- [离散数学:环与域](https://xingwangzhe.fun/posts/60641/)
-- [离散数学:子群的陪集及拉格朗日定理](https://xingwangzhe.fun/posts/14001/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
