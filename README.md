@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [不要再用微软auth验证器了!](https://xingwangzhe.fun/posts/52579/)
 - [系统化:为我自己的博客主题建立文档网站](https://xingwangzhe.fun/posts/31565/)
 - [Minecraft大电影:不建不散!](https://xingwangzhe.fun/posts/1250/)
 - [是时候了解docker了!](https://xingwangzhe.fun/posts/13700/)
 - [craftmine:愚人节更新](https://xingwangzhe.fun/posts/52599/)
 - [国产开源的文档转换器:MinerU](https://xingwangzhe.fun/posts/64756/)
 - [编译原理:FIRST集和FOLLOW集](https://xingwangzhe.fun/posts/8237/)
-- [编译原理:LL&lpar;1&rpar;文法](https://xingwangzhe.fun/posts/23217/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
