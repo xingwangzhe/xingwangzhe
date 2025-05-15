@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thetis物理密钥，为什么我们应该使用物理密钥](https://xingwangzhe.fun/posts/35f26ed0/)
 - [GitHub Actions 文件时间戳丢失问题及解决方案](https://xingwangzhe.fun/posts/4c9d93cd/)
 - [初试rust,门槛有点高](https://xingwangzhe.fun/posts/2f7208c4/)
 - [久未更新,杂谈一点](https://xingwangzhe.fun/posts/90508808/)
 - [如何用唯物主义的观点看待ai的发展](https://xingwangzhe.fun/posts/60039/)
 - [不要再用微软auth验证器了!](https://xingwangzhe.fun/posts/52579/)
 - [系统化:为我自己的博客主题建立文档网站](https://xingwangzhe.fun/posts/31565/)
-- [Minecraft大电影:不建不散!](https://xingwangzhe.fun/posts/1250/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
