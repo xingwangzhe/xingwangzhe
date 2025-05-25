@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [收信有感,防范钓鱼邮件](https://xingwangzhe.fun/posts/dff612a3/)
 - [算法设计与分析 - 基本概念与解递归方程](https://xingwangzhe.fun/posts/f0456b2f/)
 - [VSCode Remote 远程连接服务器记录](https://xingwangzhe.fun/posts/51f8f04b/)
 - [Thetis物理密钥，为什么我们应该使用物理密钥](https://xingwangzhe.fun/posts/35f26ed0/)
 - [GitHub Actions 文件时间戳丢失问题及解决方案](https://xingwangzhe.fun/posts/4c9d93cd/)
 - [初试rust,门槛有点高](https://xingwangzhe.fun/posts/2f7208c4/)
 - [久未更新,杂谈一点](https://xingwangzhe.fun/posts/90508808/)
-- [如何用唯物主义的观点看待ai的发展](https://xingwangzhe.fun/posts/60039/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
