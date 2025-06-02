@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [自由不止软件-记录一次zlib上传书籍](https://xingwangzhe.fun/posts/fb8a0c1d/)
+- [异梦-boom与陨石灾变](https://xingwangzhe.fun/posts/1e837f38/)
 - [学习开发Astro博客后台&lpar;二&rpar;重载之殇](https://xingwangzhe.fun/posts/e66ebd10/)
 - [学习开发astro博客后台&lpar;一&rpar;钩子文学](https://xingwangzhe.fun/posts/f023e0e0/)
 - [群众计算机素养这块堪忧](https://xingwangzhe.fun/posts/72ce85f7/)
 - [收信有感,防范钓鱼邮件](https://xingwangzhe.fun/posts/dff612a3/)
 - [算法设计与分析 - 基本概念与解递归方程](https://xingwangzhe.fun/posts/f0456b2f/)
-- [VSCode Remote 远程连接服务器记录](https://xingwangzhe.fun/posts/51f8f04b/)
-- [Thetis物理密钥，为什么我们应该使用物理密钥](https://xingwangzhe.fun/posts/35f26ed0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
