@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Waline被莫名索引问题解决](https://xingwangzhe.fun/posts/ab466a91/)
 - [再简单折腾一下ubuntu](https://xingwangzhe.fun/posts/e18027de/)
 - [ubuntu折腾记录](https://xingwangzhe.fun/posts/e665b92c/)
 - [自由不止软件-记录一次zlib上传书籍](https://xingwangzhe.fun/posts/fb8a0c1d/)
 - [异梦-boom与陨石灾变](https://xingwangzhe.fun/posts/1e837f38/)
 - [学习开发Astro博客后台&lpar;二&rpar;重载之殇](https://xingwangzhe.fun/posts/e66ebd10/)
 - [学习开发astro博客后台&lpar;一&rpar;钩子文学](https://xingwangzhe.fun/posts/f023e0e0/)
-- [群众计算机素养这块堪忧](https://xingwangzhe.fun/posts/72ce85f7/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
