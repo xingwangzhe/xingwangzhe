@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ubuntu无法访问windows磁盘问题](https://xingwangzhe.fun/posts/3e2e5b68/)
 - [解决ubuntu智能卡验证问题,取消智能卡验证](https://xingwangzhe.fun/posts/b0c84f59/)
 - [Waline被莫名索引问题解决](https://xingwangzhe.fun/posts/ab466a91/)
 - [再简单折腾一下ubuntu](https://xingwangzhe.fun/posts/e18027de/)
 - [ubuntu折腾记录](https://xingwangzhe.fun/posts/e665b92c/)
 - [自由不止软件-记录一次zlib上传书籍](https://xingwangzhe.fun/posts/fb8a0c1d/)
 - [异梦-boom与陨石灾变](https://xingwangzhe.fun/posts/1e837f38/)
-- [学习开发Astro博客后台&lpar;二&rpar;重载之殇](https://xingwangzhe.fun/posts/e66ebd10/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
