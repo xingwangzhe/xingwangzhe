@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [博客一周年了，竟然坚持了下来](https://xingwangzhe.fun/posts/3bf19d88/)
 - [天上不会掉馅饼，那是陷阱！](https://xingwangzhe.fun/posts/3797104e/)
 - [在 Ubuntu 上实现 Thetis FIDO U2F 密码登录](https://xingwangzhe.fun/posts/236a2dce/)
 - [ubuntu无法访问windows磁盘问题](https://xingwangzhe.fun/posts/3e2e5b68/)
 - [解决ubuntu智能卡验证问题,取消智能卡验证](https://xingwangzhe.fun/posts/b0c84f59/)
 - [Waline被莫名索引问题解决](https://xingwangzhe.fun/posts/ab466a91/)
 - [再简单折腾一下ubuntu](https://xingwangzhe.fun/posts/e18027de/)
-- [ubuntu折腾记录](https://xingwangzhe.fun/posts/e665b92c/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
