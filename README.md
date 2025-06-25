@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [高考生过来看！教你精准转换录取位次！](https://xingwangzhe.fun/posts/1e01bebd/)
 - [时隔两年,通关夺命邮差2](https://xingwangzhe.fun/posts/da9b5474/)
 - [博客一周年了，竟然坚持了下来](https://xingwangzhe.fun/posts/3bf19d88/)
 - [天上不会掉馅饼，那是陷阱！](https://xingwangzhe.fun/posts/3797104e/)
 - [在 Ubuntu 上实现 Thetis FIDO U2F 密码登录](https://xingwangzhe.fun/posts/236a2dce/)
 - [ubuntu无法访问windows磁盘问题](https://xingwangzhe.fun/posts/3e2e5b68/)
 - [解决ubuntu智能卡验证问题,取消智能卡验证](https://xingwangzhe.fun/posts/b0c84f59/)
-- [Waline被莫名索引问题解决](https://xingwangzhe.fun/posts/ab466a91/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
