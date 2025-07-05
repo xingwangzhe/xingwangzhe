@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [腾讯Edgeone免费版体验](https://xingwangzhe.fun/posts/c5742cd5/)
 - [俄罗斯互联网用户无法访问Cloudflare](https://xingwangzhe.fun/posts/3a0159f8/)
 - [老外催我升级Minecraft模组版本](https://xingwangzhe.fun/posts/f8002f06/)
 - [高考生过来看！教你精准转换录取位次！](https://xingwangzhe.fun/posts/1e01bebd/)
 - [时隔两年,通关夺命邮差2](https://xingwangzhe.fun/posts/da9b5474/)
 - [博客一周年了，竟然坚持了下来](https://xingwangzhe.fun/posts/3bf19d88/)
 - [天上不会掉馅饼，那是陷阱！](https://xingwangzhe.fun/posts/3797104e/)
-- [在 Ubuntu 上实现 Thetis FIDO U2F 密码登录](https://xingwangzhe.fun/posts/236a2dce/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
