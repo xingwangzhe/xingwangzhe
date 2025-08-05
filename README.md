@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [赶集风景，平淡的一天](https://xingwangzhe.fun/posts/7c20886a/)
 - [7x24:运维使命](https://xingwangzhe.fun/posts/a16c0283/)
 - [读书：《Free as in Freedom》——若为自由故](https://xingwangzhe.fun/posts/1ae84415/)
 - [首页文章列表懒加载优化](https://xingwangzhe.fun/posts/183aa457/)
 - [Ubuntu 24.04 安装 Vivado 2018.3](https://xingwangzhe.fun/posts/1a282b79/)
 - [腾讯Edgeone免费版体验](https://xingwangzhe.fun/posts/c5742cd5/)
 - [俄罗斯互联网用户无法访问Cloudflare](https://xingwangzhe.fun/posts/3a0159f8/)
-- [老外催我升级Minecraft模组版本](https://xingwangzhe.fun/posts/f8002f06/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skill Set  
