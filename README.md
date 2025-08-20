@@ -72,6 +72,26 @@
 
 </table>
 
+### GPG Public Key Verification
+
+To verify my identity, you can use the following GPG public key:
+
+Email: xingwangzhe@outlook.com
+
+Key fingerprint: AC13 70EE 760A F87D E4FD D290 5CBC D856 D54B A9CD
+
+You can obtain my public key in the following ways:
+
+1. From the public key server:
+   ```bash
+   gpg --keyserver keys.openpgp.org --recv-keys AC1370EE760AF87DE4FDD2905CBCD856D54BA9CD
+   ```
+
+2. Directly visit [keys.openpgp.org](https://keys.openpgp.org)
+3. Download [xingwangzhe_public.asc](https://xingwangzhe.fun/xingwangzhe_public.asc)
+
+After importing the key, you can use GPG tools to verify my signatures to ensure the authenticity and integrity of communications.
+
 ### Record
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
