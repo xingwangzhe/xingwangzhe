@@ -14,7 +14,8 @@
 
 | | | |
 | --- | --- | --- |
-| [![hexo-theme-wang](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=hexo-theme-wang)](https://github.com/xingwangzhe/hexo-theme-wang)   |   [![turing-machine](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=turing_machine)](https://github.com/xingwangzhe/turing_machine)    |
+| [![stalux](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=stalux)](https://github.com/xingwangzhe/stalux)   |   [![turing-machine](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=turing_machine)](https://github.com/xingwangzhe/turing_machine)    |
+| [![RustedWarfareModSupport](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=RustedWarfareModSupport)](https://github.com/xingwangzhe/RustedWarfareModSupport) | | |
 
 ![Top Langs](https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby)
 
