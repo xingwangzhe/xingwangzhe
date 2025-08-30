@@ -12,12 +12,7 @@
 
 ![xingwangzhe's GitHub stats](https://github-readme-stats-sigma-ecru.vercel.app/api?username=xingwangzhe&theme=great-gatsby)
 
-| | | |
-| --- | --- | --- |
-| [![stalux](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=stalux)](https://github.com/xingwangzhe/stalux)   |   [![turing-machine](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=turing_machine)](https://github.com/xingwangzhe/turing_machine)    |
-| [![RustedWarfareModSupport](https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=xingwangzhe&theme=great-gatsby&repo=RustedWarfareModSupport)](https://github.com/xingwangzhe/RustedWarfareModSupport) | | |
 
-![Top Langs](https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby)
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently studying at Northeastern University(China)
@@ -35,43 +30,6 @@
 - [爆，沉浸式翻译泄露敏感信息](https://xingwangzhe.fun/posts/59d4a1c5/)
 - [赶集风景，平淡的一天](https://xingwangzhe.fun/posts/7c20886a/)
 <!-- BLOG-POST-LIST:END -->
-
-### My Skill Set  
-<table><tr>
-
-<td valign="top" width="32%">
-  
-#### Plan  
-<div align="center">  
-  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" height="45" /></a>
-  <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" height="45" /></a>
-</div>
-</td>
-
-<td valign="top" width="32%">
-
-#### Learning now
-<div align="center">  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="45" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45" /></a>
-</div>
-
-</td>
-<td valign="top" width="32%">
-
-#### Skills
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="45" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="45" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
-  <a href="https://html.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45" /></a>
-
-</div>
-</td>
-
-</table>
 
 ### GPG Public Key Verification
 
