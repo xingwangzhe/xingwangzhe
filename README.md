@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [为什么说，大学教育与社会脱节](https://xingwangzhe.fun/posts/f1467e6a/)
 - [解决Tauri2.x拖拽事件问题](https://xingwangzhe.fun/posts/aed59aad/)
 - [新学期第一课《计算机图形学》报告](https://xingwangzhe.fun/posts/6750e8fe/)
 - [Tauri在GNOME46+上通知无效的临时解决方法](https://xingwangzhe.fun/posts/8d9bb0f3/)
 - [窃文者:未经授权转载我文章](https://xingwangzhe.fun/posts/67f60a9c/)
 - [GPG公钥分享文化](https://xingwangzhe.fun/posts/f74e64e5/)
 - [解决在ubuntu上，打包vscode插件问题](https://xingwangzhe.fun/posts/a2c639ef/)
-- [伪造squaremap的玩家显示](https://xingwangzhe.fun/posts/828e66c0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
