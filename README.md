@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [不小心写死循环窗口弹出了](https://xingwangzhe.fun/posts/505f6391/)
 - [美化Grub界面](https://xingwangzhe.fun/posts/5f776910/)
 - [计算机图形学-图形的表示与数据结构](https://xingwangzhe.fun/posts/ba87b986/)
 - [计算机图形学绪论](https://xingwangzhe.fun/posts/c0bab5bf/)
 - [为什么说，大学教育与社会脱节](https://xingwangzhe.fun/posts/f1467e6a/)
 - [解决Tauri2.x拖拽事件问题](https://xingwangzhe.fun/posts/aed59aad/)
 - [新学期第一课《计算机图形学》报告](https://xingwangzhe.fun/posts/6750e8fe/)
-- [Tauri在GNOME46+上通知无效的临时解决方法](https://xingwangzhe.fun/posts/8d9bb0f3/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
