@@ -5,9 +5,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
-
-# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/xingwangzhe/count.svg) visits
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!;若为自由故&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
 
 ![xingwangzhe's GitHub stats](https://github-readme-stats-sigma-ecru.vercel.app/api?username=xingwangzhe&theme=great-gatsby)
@@ -53,4 +51,3 @@ After importing the key, you can use GPG tools to verify my signatures to ensure
 
 ### Record
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
