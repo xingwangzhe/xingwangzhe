@@ -5,7 +5,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!;若为自由故!;Just fot fun!;&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!;若为自由故+!;Just+for+fun+!;&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
 
 ![xingwangzhe's GitHub stats](https://github-readme-stats-sigma-ecru.vercel.app/api?username=xingwangzhe&theme=great-gatsby)
