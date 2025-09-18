@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tauri在GNOME46+上通知无效的临时解决方法](https://xingwangzhe.fun/posts/8d9bb0f3/)
-- [窃文者:未经授权转载我文章](https://xingwangzhe.fun/posts/67f60a9c/)
-- [GPG公钥分享文化](https://xingwangzhe.fun/posts/f74e64e5/)
-- [解决在ubuntu上，打包vscode插件问题](https://xingwangzhe.fun/posts/a2c639ef/)
-- [伪造squaremap的玩家显示](https://xingwangzhe.fun/posts/828e66c0/)
-- [爆，沉浸式翻译泄露敏感信息](https://xingwangzhe.fun/posts/59d4a1c5/)
-- [赶集风景，平淡的一天](https://xingwangzhe.fun/posts/7c20886a/)
+- [再谈自由软件](https://xingwangzhe.fun/posts/945d7e3a/)
+- [可能解决Tauri多窗口应用阻塞问题](https://xingwangzhe.fun/posts/50b9d330/)
+- [Xingwangzhe! Z-Library We miss you and we need your help](https://xingwangzhe.fun/posts/2dc334d9/)
+- [计算机组成原理第二章 - 定点数与浮点数](https://xingwangzhe.fun/posts/4f16228c/)
+- [计算机组成原理第一章](https://xingwangzhe.fun/posts/d7dbaa42/)
+- [不小心写死循环窗口弹出了](https://xingwangzhe.fun/posts/505f6391/)
+- [美化Grub界面](https://xingwangzhe.fun/posts/5f776910/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
