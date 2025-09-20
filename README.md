@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [旧忆 - 我曾玩过的游戏](https://xingwangzhe.fun/posts/ecf8776c/)
 - [再谈自由软件](https://xingwangzhe.fun/posts/945d7e3a/)
 - [可能解决Tauri多窗口应用阻塞问题](https://xingwangzhe.fun/posts/50b9d330/)
 - [Xingwangzhe! Z-Library We miss you and we need your help](https://xingwangzhe.fun/posts/2dc334d9/)
 - [计算机组成原理第二章 - 定点数与浮点数](https://xingwangzhe.fun/posts/4f16228c/)
 - [计算机组成原理第一章](https://xingwangzhe.fun/posts/d7dbaa42/)
 - [不小心写死循环窗口弹出了](https://xingwangzhe.fun/posts/505f6391/)
-- [美化Grub界面](https://xingwangzhe.fun/posts/5f776910/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
