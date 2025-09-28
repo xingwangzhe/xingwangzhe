@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [解决Linux上启动游戏总是默认English的情况](https://xingwangzhe.fun/posts/81fc36f0/)
 - [Tauri2.x实现系统菜单导航Vue路由](https://xingwangzhe.fun/posts/1c1f2d49/)
 - [计算机图形学-基本图形生成算法](https://xingwangzhe.fun/posts/10deed37/)
 - [数据库原理-关系数据](https://xingwangzhe.fun/posts/8ce31cb6/)
 - [数据库原理-设计技巧](https://xingwangzhe.fun/posts/2d86180d/)
 - [数据库原理E-R模型](https://xingwangzhe.fun/posts/6906e0aa/)
 - [旧忆 - 我曾玩过的游戏](https://xingwangzhe.fun/posts/ecf8776c/)
-- [再谈自由软件](https://xingwangzhe.fun/posts/945d7e3a/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
