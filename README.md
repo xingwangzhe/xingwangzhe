@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [神秘的外链指向我站](https://xingwangzhe.fun/posts/7cd9e7a9/)
 - [中秋-来试试Moonbit吧](https://xingwangzhe.fun/posts/32faf407/)
 - [Obsidian使用体验](https://xingwangzhe.fun/posts/d5f89da4/)
 - [猪猪侠·一只老猪的逆袭](https://xingwangzhe.fun/posts/ab47fdfc/)
 - [国庆日纪念](https://xingwangzhe.fun/posts/0b1a4bdd/)
 - [GNU 42周年，AI时代的自由精神](https://xingwangzhe.fun/posts/c08b9de1/)
 - [解决Linux上启动游戏总是默认English的情况](https://xingwangzhe.fun/posts/81fc36f0/)
-- [Tauri2.x实现系统菜单导航Vue路由](https://xingwangzhe.fun/posts/1c1f2d49/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
