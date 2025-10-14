@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [再也不见Windows10](https://xingwangzhe.fun/posts/ac8ebba9/)
 - [偷梁换柱，解决Ubuntu24.04安装Packet Tracer缺失依赖问题](https://xingwangzhe.fun/posts/9fe82262/)
 - [神秘的外链指向我站](https://xingwangzhe.fun/posts/7cd9e7a9/)
 - [中秋-来试试Moonbit吧](https://xingwangzhe.fun/posts/32faf407/)
 - [Obsidian使用体验](https://xingwangzhe.fun/posts/d5f89da4/)
 - [猪猪侠·一只老猪的逆袭](https://xingwangzhe.fun/posts/ab47fdfc/)
 - [国庆日纪念](https://xingwangzhe.fun/posts/0b1a4bdd/)
-- [GNU 42周年，AI时代的自由精神](https://xingwangzhe.fun/posts/c08b9de1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
