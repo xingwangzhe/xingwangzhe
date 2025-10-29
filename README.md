@@ -10,7 +10,7 @@
 
 ![xingwangzhe's GitHub stats](https://github-readme-stats-sigma-ecru.vercel.app/api?username=xingwangzhe&theme=great-gatsby)
 
-![Top Languages](https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby)
+![Top Languages](https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby&hide_private=true)
 
 
 
