@@ -8,9 +8,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!;若为自由故+!;Just+for+fun+!;&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
 
-![xingwangzhe's GitHub stats](https://github-readme-stats-sigma-ecru.vercel.app/api?username=xingwangzhe&theme=great-gatsby)
+![xingwangzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingwangzhe&theme=great-gatsby)
 
-![Top Languages](https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby&hide_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=5)
 
 
 
