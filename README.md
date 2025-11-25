@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [为什么我推荐你使用GPG来加密你的邮件](https://xingwangzhe.fun/posts/587ede8c/)
+- [2025第三方客户端登录东北大学邮箱](https://xingwangzhe.fun/posts/f01f67d6/)
 - [好久没更新了，过去与未来](https://xingwangzhe.fun/posts/cc443f72/)
 - [1024 重要的日子](https://xingwangzhe.fun/posts/749956b2/)
 - [再也不见Windows10](https://xingwangzhe.fun/posts/ac8ebba9/)
 - [偷梁换柱，解决Ubuntu24.04安装Packet Tracer缺失依赖问题](https://xingwangzhe.fun/posts/9fe82262/)
 - [神秘的外链指向我站](https://xingwangzhe.fun/posts/7cd9e7a9/)
-- [中秋-来试试Moonbit吧](https://xingwangzhe.fun/posts/32faf407/)
-- [Obsidian使用体验](https://xingwangzhe.fun/posts/d5f89da4/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
