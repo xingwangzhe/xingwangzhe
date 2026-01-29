@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [把Hexo永久链接迁移到Astro](https://xingwangzhe.fun/posts/move-hexo-permalink-to-astro/)
 - [再见👋 LeanCloud](https://xingwangzhe.fun/posts/7c604030/)
 - [2025年终总结](https://xingwangzhe.fun/posts/cbab25fa/)
 - [许可合规-fancybox](https://xingwangzhe.fun/posts/2da95e5f/)
 - [博客主题的软著下来了](https://xingwangzhe.fun/posts/32b402b0/)
 - [友链图谱 - 汇聚千丝万缕的联系](https://xingwangzhe.fun/posts/ceec80f8/)
 - [chen-er 专为Chen式ER图打造的npm包](https://xingwangzhe.fun/posts/b8eb3b61/)
-- [为什么我推荐你使用GPG来加密你的邮件](https://xingwangzhe.fun/posts/587ede8c/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
