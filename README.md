@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Moonbit 0.8.0 重大发布,我也要改一下我的包](https://xingwangzhe.fun/posts/moonbit-0-8-0-release-change-my-package/)
 - [ESA Pages 边缘开发大赛获奖](https://xingwangzhe.fun/posts/esa-pages-awards/)
 - [Astro: 优化katex,mermaid和灯箱使用](https://xingwangzhe.fun/posts/astro-optimize-katex-mermaid-photoswipe/)
 - [从edgeone迁移到esa](https://xingwangzhe.fun/posts/mv-edgeone-to-esa/)
 - [出租人类：AI时代的荒诞与真实](https://xingwangzhe.fun/posts/ai-rentahuman/)
 - [Astro 5.17构建性能优化实践：从18s到13s](https://xingwangzhe.fun/posts/astro-517-performance-optimization/)
 - [Moonbit License Checker 开发使用](https://xingwangzhe.fun/posts/moonbit-license-checker/)
-- [Stalux Astro博客主题自荐](https://xingwangzhe.fun/posts/stalux-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
