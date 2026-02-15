@@ -16,7 +16,7 @@
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently studying at Northeastern University(China)
-- 💻 My Blog (not update often):[姓王者的博客](https://xingwangzhe.github.io)
+- 💻 My Blog (not update often):[姓王者的博客](https://xingwangzhe.fun)
 - 📫 How to reach me: xingwangzhe@outlook.com
 - 🔭 My ideal pursuit: Computer Graphics Computer Science Game Production
 
