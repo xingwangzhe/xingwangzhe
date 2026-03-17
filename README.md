@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw 该熄火了](https://xingwangzhe.fun/posts/openclaw-no/)
 - [Vite8 - 统一的基建开始](https://xingwangzhe.fun/posts/vite-voidzero-features/)
 - [Astro 6 推出啦](https://xingwangzhe.fun/posts/astro6-release/)
 - [ubuntu的openvpn异常暂停推送更新](https://xingwangzhe.fun/posts/error-push-openvpn-on-ubuntu/)
 - [Ubuntu 24.04 安装 Win10 虚拟机](https://xingwangzhe.fun/posts/ubuntu-24.04-install-win10-vm/)
 - [ESA-后记:热爱阿里云](https://xingwangzhe.fun/posts/esa-to-aliyun/)
 - [Moonbit 0.8.0 重大发布,我也要改一下我的包](https://xingwangzhe.fun/posts/moonbit-0-8-0-release-change-my-package/)
-- [ESA Pages 边缘开发大赛获奖](https://xingwangzhe.fun/posts/esa-pages-awards/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
