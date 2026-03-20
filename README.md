@@ -22,13 +22,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bing收录没了？亲测有效的快速恢复指南](https://xingwangzhe.fun/posts/bing-re-index/)
+- [解决桌面设备二维码快速识别的工具-ClipQR](https://xingwangzhe.fun/posts/clipqr/)
 - [解决 Nautilus 自定义终端插件安装依赖问题](https://xingwangzhe.fun/posts/nautilus-open-any-terminal/)
 - [OpenClaw 该熄火了](https://xingwangzhe.fun/posts/openclaw-no/)
 - [Vite8 - 统一的基建开始](https://xingwangzhe.fun/posts/vite-voidzero-features/)
 - [Astro 6 推出啦](https://xingwangzhe.fun/posts/astro6-release/)
 - [ubuntu的openvpn异常暂停推送更新](https://xingwangzhe.fun/posts/error-push-openvpn-on-ubuntu/)
-- [Ubuntu 24.04 安装 Win10 虚拟机](https://xingwangzhe.fun/posts/ubuntu-24.04-install-win10-vm/)
-- [ESA-后记:热爱阿里云](https://xingwangzhe.fun/posts/esa-to-aliyun/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
