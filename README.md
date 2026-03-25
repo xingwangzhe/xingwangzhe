@@ -12,7 +12,23 @@
 
 ![Top Languages](https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact)
 
+## What I Use
 
+![editor](https://skill-icons-v2.vercel.app/api/icons?i=vim,zed,vscode,latex)
+
+![version control](https://skill-icons-v2.vercel.app/api/icons?i=github,git,codeberg,ssh,githubactions)
+
+![programming languages](https://skill-icons-v2.vercel.app/api/icons?i=javascript,typescript,c,cpp,bash)
+
+![frontend development](https://skill-icons-v2.vercel.app/api/icons?i=html,css,vuejs,astro,vite,bun,npm,nodejs,markdown,mermaid)
+
+![backend & devops](https://skill-icons-v2.vercel.app/api/icons?i=docker,cicd,nginx,tauri)
+
+![game](https://skill-icons-v2.vercel.app/api/icons?i=godot,steam,discord)
+
+![os and other](https://skill-icons-v2.vercel.app/api/icons?i=linux,ubuntu,debian,gnome)
+
+![applications & services](https://skill-icons-v2.vercel.app/api/icons?i=thunderbird,terminal,yaml,firefox,chrome,cloudflare,svg,claude,leetcode)
 
 ### Here are some ideas to get you started:
 - 🌱 I’m currently studying at Northeastern University(China)
