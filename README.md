@@ -37,13 +37,13 @@ To verify my identity, you can use the following GPG public key:
 
 Email: xingwangzhe@outlook.com
 
-Key fingerprint: AC13 70EE 760A F87D E4FD D290 5CBC D856 D54B A9CD
+Key fingerprint: `3F188 8838E AAE1A 4EA68 D2D73 067B7 70E21 03FA6`
 
 You can obtain my public key in the following ways:
 
 1. From the public key server:
    ```bash
-   gpg --keyserver keys.openpgp.org --recv-keys AC1370EE760AF87DE4FDD2905CBCD856D54BA9CD
+   gpg --keyserver keys.openpgp.org --recv-keys 3F1888838EAAE1A4EA68D2D73067B770E2103FA6
    ```
 
 2. Directly visit [keys.openpgp.org](https://keys.openpgp.org)
