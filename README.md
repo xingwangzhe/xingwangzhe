@@ -10,7 +10,7 @@
 
 ![xingwangzhe's GitHub stats](https://sts.stalux.top/api?username=xingwangzhe&theme=great-gatsby)
 
-![Top Languages](https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10)
+![Top Languages](https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact)
 
 
 
