@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!;若为自由故+!;Just+for+fun+!;&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
 
-![xingwangzhe's GitHub stats](https://sts.stalux.top/api?username=xingwangzhe&theme=great-gatsby)
+![xingwangzhe's GitHub stats](https://sts.stalux.top/api?username=xingwangzhe&theme=great-gatsby&show_icons=true)
 
 ![Top Languages](https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact)
 
