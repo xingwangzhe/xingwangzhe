@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu26.04-beta体验:坚毅浣熊!](https://xingwangzhe.fun/posts/ubuntu-26-04-beta/)
 - [fakeclaw装作龙虾发贴吧](https://xingwangzhe.fun/posts/fakeclaw-tieba/)
 - [找回12年前的QQ记忆](https://xingwangzhe.fun/posts/find-qq-memory/)
 - [在Linux上玩Flash网页游戏-洛克王国](https://xingwangzhe.fun/posts/linux-flash-roco/)
 - [Copilot将使用交互数据来训练](https://xingwangzhe.fun/posts/copilot-train/)
 - [重要通知-请更新我的GPG公钥](https://xingwangzhe.fun/posts/2026-3-gpg-update/)
 - [为了自由Android](https://xingwangzhe.fun/posts/for-free-android/)
-- [GPL&quot;2,3&quot;事](https://xingwangzhe.fun/posts/gpl-2-3-thing/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
