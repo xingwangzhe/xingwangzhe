@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [突发：GitHub 正遭受大规模 Issue 赌博广告轰炸](https://xingwangzhe.fun/posts/github-issue-spam-bombing-20260329/)
 - [Ubuntu26.04-beta体验:坚毅浣熊!](https://xingwangzhe.fun/posts/ubuntu-26-04-beta/)
 - [fakeclaw装作龙虾发贴吧](https://xingwangzhe.fun/posts/fakeclaw-tieba/)
 - [找回12年前的QQ记忆](https://xingwangzhe.fun/posts/find-qq-memory/)
 - [在Linux上玩Flash网页游戏-洛克王国](https://xingwangzhe.fun/posts/linux-flash-roco/)
 - [Copilot将使用交互数据来训练](https://xingwangzhe.fun/posts/copilot-train/)
 - [重要通知-请更新我的GPG公钥](https://xingwangzhe.fun/posts/2026-3-gpg-update/)
-- [为了自由Android](https://xingwangzhe.fun/posts/for-free-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
