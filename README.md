@@ -34,7 +34,7 @@
 - 🌱 I’m currently studying at Northeastern University(China)
 - 💻 My Blog (not update often):[姓王者的博客](https://xingwangzhe.fun)
 - 📫 How to reach me: xingwangzhe@outlook.com
-- 🔭 My ideal pursuit: Computer Graphics Computer Science Game Production
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
