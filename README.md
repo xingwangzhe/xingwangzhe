@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux用户Secure Boot自主维护指南](https://xingwangzhe.fun/posts/linux-uefi-ca-update/)
 - [MAD Bugs 已经开始——关于信息安全的军备竞赛](https://xingwangzhe.fun/posts/mad-bugs-begin/)
 - [解决钉钉Dingtalk无法在Linux新版内核上启动问题-修复可执行栈错误](https://xingwangzhe.fun/posts/dingtalk-linux-fix-execstack/)
 - [突发：GitHub 正遭受大规模 Issue 赌博广告轰炸](https://xingwangzhe.fun/posts/github-issue-spam-bombing-20260329/)
 - [Ubuntu26.04-beta体验:坚毅浣熊!](https://xingwangzhe.fun/posts/ubuntu-26-04-beta/)
 - [fakeclaw装作龙虾发贴吧](https://xingwangzhe.fun/posts/fakeclaw-tieba/)
 - [找回12年前的QQ记忆](https://xingwangzhe.fun/posts/find-qq-memory/)
-- [在Linux上玩Flash网页游戏-洛克王国](https://xingwangzhe.fun/posts/linux-flash-roco/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
