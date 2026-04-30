@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-31431 Linux Copy Fail 史诗级提权漏洞分析](https://xingwangzhe.fun/posts/cve-2026-31431-copy-fail/)
 - [收到微软Bing的奖品](https://xingwangzhe.fun/posts/microsoft-bing-prize/)
 - [Ubuntu26.04正式推出](https://xingwangzhe.fun/posts/ubuntu-26-04-official-release/)
 - [Linux用户Secure Boot自主维护指南](https://xingwangzhe.fun/posts/linux-uefi-ca-update/)
 - [MAD Bugs 已经开始——关于信息安全的军备竞赛](https://xingwangzhe.fun/posts/mad-bugs-begin/)
 - [解决钉钉Dingtalk无法在Linux新版内核上启动问题-修复可执行栈错误](https://xingwangzhe.fun/posts/dingtalk-linux-fix-execstack/)
 - [突发：GitHub 正遭受大规模 Issue 赌博广告轰炸](https://xingwangzhe.fun/posts/github-issue-spam-bombing-20260329/)
-- [Ubuntu26.04-beta体验:坚毅浣熊!](https://xingwangzhe.fun/posts/ubuntu-26-04-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
