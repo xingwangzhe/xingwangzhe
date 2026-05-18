@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [敬告 mazongYY：停止抄袭，请遵守 CC 协议](https://xingwangzhe.fun/posts/warning-mazongyy-plagiarism/)
 - [Cloudflare Pages自定义依赖安装实践](https://xingwangzhe.fun/posts/cf-pages-custom-deps/)
 - [Debian 14 强制可重现构建：从&quot;信任我们&quot;到&quot;验证我们&quot;](https://xingwangzhe.fun/posts/debian-14-reproducible-builds/)
 - [一辆共享单车的两副面孔](https://xingwangzhe.fun/posts/two-faces-of-a-shared-bike/)
 - [Dirty Frag——又一个Linux内核提权漏洞，Ubuntu又双叒叕中招了](https://xingwangzhe.fun/posts/dirty-frag-linux-lpe/)
 - [CVE-2026-31431 Linux Copy Fail 史诗级提权漏洞分析](https://xingwangzhe.fun/posts/cve-2026-31431-copy-fail/)
 - [收到微软Bing的奖品](https://xingwangzhe.fun/posts/microsoft-bing-prize/)
-- [Ubuntu26.04正式推出](https://xingwangzhe.fun/posts/ubuntu-26-04-official-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
