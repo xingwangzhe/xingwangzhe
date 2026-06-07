@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题](https://xingwangzhe.fun/posts/fix-svg-background-forcedark-whitening/)
+- [感谢BlogsClub和好站网的精美礼品](https://xingwangzhe.fun/posts/thanks-blogsclub-haozhanwang/)
 - [笔记软件推荐-花笺](https://xingwangzhe.fun/posts/floral-notepaper-review/)
 - [我的异常体验光谱：当物质、时间和自我开始松动](https://xingwangzhe.fun/posts/abnormal-experience-spectrum/)
 - [2026东北大学邮箱第三方客户端配置指南&lpar;Thunderbird&rpar;](https://xingwangzhe.fun/posts/neu-email-thunderbird-2026/)
 - [敬告 mazongYY：停止抄袭，请遵守 CC 协议](https://xingwangzhe.fun/posts/warning-mazongyy-plagiarism/)
 - [Cloudflare Pages自定义依赖安装实践](https://xingwangzhe.fun/posts/cf-pages-custom-deps/)
-- [Debian 14 强制可重现构建：从&quot;信任我们&quot;到&quot;验证我们&quot;](https://xingwangzhe.fun/posts/debian-14-reproducible-builds/)
-- [一辆共享单车的两副面孔](https://xingwangzhe.fun/posts/two-faces-of-a-shared-bike/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
