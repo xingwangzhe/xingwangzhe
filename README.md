@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [回顾经典-程序员的三大美德](https://xingwangzhe.fun/posts/programmers-three-virtues/)
 - [我做了一个现代Web版本的标签云，支持图片视频Web组件](https://xingwangzhe.fun/posts/modern-tags-cloud-3d/)
 - [别让AI替你捣乱-致零软件工程经验新人的指南](https://xingwangzhe.fun/posts/zero-se-newcomer-guide/)
 - [解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题](https://xingwangzhe.fun/posts/fix-svg-background-forcedark-whitening/)
 - [感谢BlogsClub和好站网的精美礼品](https://xingwangzhe.fun/posts/thanks-blogsclub-haozhanwang/)
 - [笔记软件推荐-花笺](https://xingwangzhe.fun/posts/floral-notepaper-review/)
 - [我的异常体验光谱：当物质、时间和自我开始松动](https://xingwangzhe.fun/posts/abnormal-experience-spectrum/)
-- [2026东北大学邮箱第三方客户端配置指南&lpar;Thunderbird&rpar;](https://xingwangzhe.fun/posts/neu-email-thunderbird-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
