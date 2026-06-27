@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [告别 Pagefind，用 Orama 实现静态博客的全文搜索](https://xingwangzhe.fun/posts/orama-search-replace-pagefind/)
 - [人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块](https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/)
 - [人工智能实训Day3：Agent智能体实践——工具调用与多技能协作](https://xingwangzhe.fun/posts/ai-training-agent-day3/)
 - [人工智能实训Day2：大模型对齐技术实践——SFT与DPO](https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/)
 - [再造图灵](https://xingwangzhe.fun/posts/redesigning-turing/)
 - [人工智能实训Day1：Ubuntu 基础与 Conda 推理环境搭建](https://xingwangzhe.fun/posts/ai-training-ubuntu-conda-day1/)
 - [秦地恨屈原：罪千年的记忆](https://xingwangzhe.fun/posts/qindi-hen-quyuan/)
-- [回顾经典-程序员的三大美德](https://xingwangzhe.fun/posts/programmers-three-virtues/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
