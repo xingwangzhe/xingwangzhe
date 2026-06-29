@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力](https://xingwangzhe.fun/posts/d3-force-precompute-3d/)
 - [友链图谱 2.0 - 3D 更美观的可视化](https://xingwangzhe.fun/posts/2d3d-graph-v2/)
 - [告别 Pagefind，用 Orama 实现静态博客的全文搜索](https://xingwangzhe.fun/posts/orama-search-replace-pagefind/)
 - [人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块](https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/)
 - [人工智能实训Day3：Agent智能体实践——工具调用与多技能协作](https://xingwangzhe.fun/posts/ai-training-agent-day3/)
 - [人工智能实训Day2：大模型对齐技术实践——SFT与DPO](https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/)
 - [再造图灵](https://xingwangzhe.fun/posts/redesigning-turing/)
-- [人工智能实训Day1：Ubuntu 基础与 Conda 推理环境搭建](https://xingwangzhe.fun/posts/ai-training-ubuntu-conda-day1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
