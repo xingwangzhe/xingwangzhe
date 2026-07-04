@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅](https://xingwangzhe.fun/posts/ai-rust-bfs-force-two-wheels/)
 - [人工智能实训Week2：B4 LLM决策模块五维升级实战](https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/)
 - [d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力](https://xingwangzhe.fun/posts/d3-force-precompute-3d/)
 - [友链图谱 2.0 - 3D 更美观的可视化](https://xingwangzhe.fun/posts/2d3d-graph-v2/)
 - [告别 Pagefind，用 Orama 实现静态博客的全文搜索](https://xingwangzhe.fun/posts/orama-search-replace-pagefind/)
 - [人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块](https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/)
 - [人工智能实训Day3：Agent智能体实践——工具调用与多技能协作](https://xingwangzhe.fun/posts/ai-training-agent-day3/)
-- [人工智能实训Day2：大模型对齐技术实践——SFT与DPO](https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
