@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [申请 Edgeone Makers 提升额度](https://xingwangzhe.fun/posts/apply-edgeone-makers/)
+- [人工智能 Poster 专业展示](https://xingwangzhe.fun/posts/week3-ai-poster/)
 - [第一次做学术 Poster——人工智能实训 Week2 的报告体验](https://xingwangzhe.fun/posts/ai-week2end-poster/)
 - [AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅](https://xingwangzhe.fun/posts/ai-rust-bfs-force-two-wheels/)
 - [人工智能实训Week2：B4 LLM决策模块五维升级实战](https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/)
 - [d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力](https://xingwangzhe.fun/posts/d3-force-precompute-3d/)
 - [友链图谱 2.0 - 3D 更美观的可视化](https://xingwangzhe.fun/posts/2d3d-graph-v2/)
-- [告别 Pagefind，用 Orama 实现静态博客的全文搜索](https://xingwangzhe.fun/posts/orama-search-replace-pagefind/)
-- [人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块](https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
