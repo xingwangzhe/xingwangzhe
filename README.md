@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶](https://xingwangzhe.fun/posts/ai-training-b4-final-report/)
 - [关于博客组织友链迁移的公告](https://xingwangzhe.fun/posts/blogroll-migration-notice/)
 - [B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践](https://xingwangzhe.fun/posts/ai-training-b4-week2-review/)
 - [后来-人们管这叫作魔法](https://xingwangzhe.fun/posts/later-they-called-it-magic/)
 - [给博客加上隐式 LLM 提示词](https://xingwangzhe.fun/posts/llm-prompt-injection-defense/)
 - [申请 Edgeone Makers 提升额度](https://xingwangzhe.fun/posts/apply-edgeone-makers/)
 - [人工智能 Poster 专业展示](https://xingwangzhe.fun/posts/week3-ai-poster/)
-- [第一次做学术 Poster——人工智能实训 Week2 的报告体验](https://xingwangzhe.fun/posts/ai-week2end-poster/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
