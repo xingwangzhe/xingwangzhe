@@ -38,13 +38,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Astro 7.2.0 实验性增量构建：从 0 命中到 1254 个 restored 的踩坑实录](https://xingwangzhe.fun/posts/astro-7.2-incremental-build/)
+- [Astro 博客主题 Stalux 集成 WebMCP：纯前端注册 7 个工具，让 AI 代理直接用你的博客](https://xingwangzhe.fun/posts/stalux-webmcp-integration/)
 - [把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践](https://xingwangzhe.fun/posts/stalux-dual-mode-refactor/)
 - [给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案](https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/)
 - [我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样](https://xingwangzhe.fun/posts/mozilla-monitor-check/)
 - [雅可比猜想被AI推翻——世界杯决赛夜，Fable一脚踢翻了85年的数学猜想](https://xingwangzhe.fun/posts/jacobian-conjecture-counterexample-fable/)
 - [发布 @xingwangzhe/satteri-mermaid：剔除mermaid.js，用Rust原生渲染流程图，构建时产出纯静态SVG](https://xingwangzhe.fun/posts/satteri-mermaid-npm-package/)
-- [人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶](https://xingwangzhe.fun/posts/ai-training-b4-final-report/)
-- [关于博客组织友链迁移的公告](https://xingwangzhe.fun/posts/blogroll-migration-notice/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key Verification
