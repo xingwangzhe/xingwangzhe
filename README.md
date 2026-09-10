@@ -64,6 +64,3 @@ You can obtain my public key in the following ways:
 3. Download [xingwangzhe_public.asc](https://xingwangzhe.fun/xingwangzhe_public.asc)
 
 After importing the key, you can use GPG tools to verify my signatures to ensure the authenticity and integrity of communications.
-
-### Record
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
