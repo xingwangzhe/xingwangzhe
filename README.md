@@ -18,13 +18,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【AI流水账】我先修好 Thunderbird 的 SSL，再用 Codex 读取东北大学邮箱](https://xingwangzhe.fun/posts/neu-mail-codex-20260909/)
 - [我用 Is Agentic 给博客做了一次体检](https://xingwangzhe.fun/posts/is-agentic-blog-check/)
 - [这个 aptitude 没有超级牛力](https://xingwangzhe.fun/posts/aptitude-super-cow-powers/)
 - [博客第一次接到赞助：聊聊不繁简历](https://xingwangzhe.fun/posts/bufancv-first-sponsorship/)
 - [EdgeOne 与 Cloudflare 海内外分流 CDN](https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/)
 - [旧忆今拾](https://xingwangzhe.fun/posts/old-memories-revisited/)
 - [Astro 7.2.0 实验性增量构建：从 0 命中到 1254 个 restored 的踩坑实录](https://xingwangzhe.fun/posts/astro-7.2-incremental-build/)
-- [Astro 博客主题 Stalux 集成 WebMCP：纯前端注册 7 个工具，让 AI 代理直接用你的博客](https://xingwangzhe.fun/posts/stalux-webmcp-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
