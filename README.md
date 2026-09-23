@@ -8,9 +8,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!;若为自由故+!;Just+for+fun+!;&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/xingwangzhe?lang=zh)](https://ghfind.com/u/xingwangzhe?ref=badge)
-
-![Top Languages](https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img width="380" alt="Most Used Languages" src="https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact">
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://ghfind.com/u/xingwangzhe?ref=badge"><img width="380" alt="GitHub Roast score card · 81.60/100 ELITE" src="https://ghfind.com/api/card/mini/xingwangzhe?lang=zh"></a>
+    </td>
+  </tr>
+</table>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
