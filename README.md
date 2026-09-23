@@ -12,12 +12,6 @@
 
 ![Top Languages](https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact)
 
-### Here are some ideas to get you started:
-- 🌱 I’m currently studying at Northeastern University(China)
-- 💻 My Blog (not update often):[姓王者的博客](https://xingwangzhe.fun)
-- 📫 How to reach me: xingwangzhe@outlook.com
-
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了](https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/)
