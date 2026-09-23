@@ -29,10 +29,15 @@
 
 ### GPG Public Key
 
-Email: xingwangzhe@outlook.com · Fingerprint: `3F1888838EAAE1A4EA68D2D73067B770E2103FA6`
+- Email: `xingwangzhe@outlook.com`
+- Primary key ID: `3067B770E2103FA6` · expires `2027-09-30`
+- Fingerprint: `3F1888838EAAE1A4EA68D2D73067B770E2103FA6`
+- Encryption subkey ID: `A3782345080E1FFB` · expires `2027-09-23`
+
+Fetch the current public key from GitHub:
 
 ```bash
-gpg --keyserver keys.openpgp.org --recv-keys 3F1888838EAAE1A4EA68D2D73067B770E2103FA6
+gpg --fetch-keys https://github.com/xingwangzhe.gpg
 ```
 
-Or get it from [keys.openpgp.org](https://keys.openpgp.org) · [xingwangzhe_public.asc](https://xingwangzhe.fun/xingwangzhe_public.asc)
+[Download the public key](https://github.com/xingwangzhe.gpg)
