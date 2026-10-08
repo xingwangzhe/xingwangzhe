@@ -21,13 +21,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding 写 Rust：CJK 字体分片与 WOFF2 缓存优化复盘](https://xingwangzhe.fun/posts/cjk-font-split-rust-vibe-optimization/)
 - [[短讯]:查询whois for edu.cn](https://xingwangzhe.fun/posts/whois-for-edu-cn/)
 - [Whois edu.cn? CERNIC介绍](https://xingwangzhe.fun/posts/whois-edu-cn-cernic/)
 - [明月几时有：月相的知识](https://xingwangzhe.fun/posts/moon-phase-mid-autumn/)
 - [公告:密友请更新我的GPG时间](https://xingwangzhe.fun/posts/gpg-expiry-update-2027/)
 - [WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了](https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/)
 - [辽宁省往年高考成绩查询方法](https://xingwangzhe.fun/posts/liaoning-gaokao-score-history/)
-- [【AI流水账】我先修好 Thunderbird 的 SSL，再用 Codex 读取东北大学邮箱](https://xingwangzhe.fun/posts/neu-mail-codex-20260909/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
