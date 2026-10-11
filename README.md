@@ -21,13 +21,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时](https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/)
+- [HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复](https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker/)
 - [Ubuntu Intel 性能模式问题排查：我修复 i7-1260P 的 PPD Governor 切换](https://xingwangzhe.fun/posts/ubuntu-intel-pstate-performance-governor/)
 - [Vibe Coding 写 Rust：CJK 字体分片与 WOFF2 缓存优化复盘](https://xingwangzhe.fun/posts/cjk-font-split-rust-vibe-optimization/)
 - [[短讯]:查询whois for edu.cn](https://xingwangzhe.fun/posts/whois-for-edu-cn/)
 - [Whois edu.cn? CERNIC介绍](https://xingwangzhe.fun/posts/whois-edu-cn-cernic/)
 - [明月几时有：月相的知识](https://xingwangzhe.fun/posts/moon-phase-mid-autumn/)
-- [公告:密友请更新我的GPG时间](https://xingwangzhe.fun/posts/gpg-expiry-update-2027/)
-- [WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了](https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
