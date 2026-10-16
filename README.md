@@ -14,7 +14,12 @@
       <img width="380" alt="Most Used Languages" src="https://sts.stalux.top/api/top-langs/?username=xingwangzhe&theme=great-gatsby&langs_count=10&layout=compact">
     </td>
     <td width="50%" align="center" valign="middle">
-      <a href="https://ghfind.com/u/xingwangzhe?ref=badge"><img width="380" alt="GitHub Roast score card · 81.60/100 ELITE" src="https://ghfind.com/api/card/mini/xingwangzhe?lang=zh"></a>
+     <a href="https://ghfind.com/u/xingwangzhe?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/xingwangzhe?variant=radar&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/xingwangzhe?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
     </td>
   </tr>
 </table>
