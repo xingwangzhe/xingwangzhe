@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力](https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/)
+- [校园秋色](https://xingwangzhe.fun/posts/campus-autumn-20261017/)
 - [HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时](https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/)
 - [HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复](https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker/)
 - [Ubuntu Intel 性能模式问题排查：我修复 i7-1260P 的 PPD Governor 切换](https://xingwangzhe.fun/posts/ubuntu-intel-pstate-performance-governor/)
 - [Vibe Coding 写 Rust：CJK 字体分片与 WOFF2 缓存优化复盘](https://xingwangzhe.fun/posts/cjk-font-split-rust-vibe-optimization/)
 - [[短讯]:查询whois for edu.cn](https://xingwangzhe.fun/posts/whois-for-edu-cn/)
-- [Whois edu.cn? CERNIC介绍](https://xingwangzhe.fun/posts/whois-edu-cn-cernic/)
-- [明月几时有：月相的知识](https://xingwangzhe.fun/posts/moon-phase-mid-autumn/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
