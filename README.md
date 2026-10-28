@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [推荐我开发的 Linux AppImage 管理器：AppimageMannger](https://xingwangzhe.fun/posts/appimage-mannger-native-linux/)
 - [1024程序员节-最后一次节日吗](https://xingwangzhe.fun/posts/1024-last-programmers-day/)
 - [我们可能面临互联网末日的奇点](https://xingwangzhe.fun/posts/internet-doomsday-singularity/)
 - [PHP 大逃杀严阵以待](https://xingwangzhe.fun/posts/php2shell-datasha/)
 - [3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力](https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/)
 - [校园秋色](https://xingwangzhe.fun/posts/campus-autumn-20261017/)
 - [HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时](https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/)
-- [HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复](https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
