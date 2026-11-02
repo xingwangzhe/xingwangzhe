@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [用 REA 逆开华为 BoF-XX 的性能模式：MateBook D15 2022 在 Linux 下的真 Turbo 解锁](https://xingwangzhe.fun/posts/huawei-bofxx-rea-turbo-unlock/)
 - [推荐我开发的 Linux AppImage 管理器：AppimageMannger](https://xingwangzhe.fun/posts/appimage-mannger-native-linux/)
 - [1024程序员节-最后一次节日吗](https://xingwangzhe.fun/posts/1024-last-programmers-day/)
 - [我们可能面临互联网末日的奇点](https://xingwangzhe.fun/posts/internet-doomsday-singularity/)
 - [PHP 大逃杀严阵以待](https://xingwangzhe.fun/posts/php2shell-datasha/)
 - [3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力](https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/)
 - [校园秋色](https://xingwangzhe.fun/posts/campus-autumn-20261017/)
-- [HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时](https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
