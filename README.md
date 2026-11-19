@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [一次教室温度调查](https://xingwangzhe.fun/posts/classroom-temperature-survey/)
-- [最后一次第一节课](https://xingwangzhe.fun/posts/software-architecture-lesson-1/)
-- [一封退货邮件的陷阱：“开箱视频”背后的 WPS、隐藏 DLL 与恶意加载链](https://xingwangzhe.fun/posts/outlook-return-malware/)
-- [用 REA 逆开华为 BoF-XX 的性能模式：MateBook D15 2022 在 Linux 下的真 Turbo 解锁](https://xingwangzhe.fun/posts/huawei-bofxx-rea-turbo-unlock/)
-- [推荐我开发的 Linux AppImage 管理器：AppimageMannger](https://xingwangzhe.fun/posts/appimage-mannger-native-linux/)
-- [1024程序员节-最后一次节日吗](https://xingwangzhe.fun/posts/1024-last-programmers-day/)
-- [我们可能面临互联网末日的奇点](https://xingwangzhe.fun/posts/internet-doomsday-singularity/)
+- [EdgeOne 尾斜杠路由的占位符配置](https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing/)
+- [【AI流水账】我先修好 Thunderbird 的 SSL，再用 Codex 读取东北大学邮箱](https://xingwangzhe.fun/posts/neu-mail-codex-20260909/)
+- [博客第一次接到赞助：聊聊不繁简历](https://xingwangzhe.fun/posts/bufancv-first-sponsorship/)
+- [EdgeOne 与 Cloudflare 海内外分流 CDN](https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/)
+- [我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样](https://xingwangzhe.fun/posts/mozilla-monitor-check/)
+- [人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶](https://xingwangzhe.fun/posts/ai-training-b4-final-report/)
+- [B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践](https://xingwangzhe.fun/posts/ai-training-b4-week2-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
