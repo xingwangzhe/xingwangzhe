@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Orama的再应用，替换Pagefind](https://xingwangzhe.fun/posts/orama-again-replace-pagefind/)
 - [EdgeOne 尾斜杠路由的占位符配置](https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing/)
 - [【AI流水账】我先修好 Thunderbird 的 SSL，再用 Codex 读取东北大学邮箱](https://xingwangzhe.fun/posts/neu-mail-codex-20260909/)
 - [博客第一次接到赞助：聊聊不繁简历](https://xingwangzhe.fun/posts/bufancv-first-sponsorship/)
 - [EdgeOne 与 Cloudflare 海内外分流 CDN](https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/)
 - [我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样](https://xingwangzhe.fun/posts/mozilla-monitor-check/)
 - [人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶](https://xingwangzhe.fun/posts/ai-training-b4-final-report/)
-- [B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践](https://xingwangzhe.fun/posts/ai-training-b4-week2-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
