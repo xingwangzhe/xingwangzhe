@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 OSGJ 日志一：〈滚幕〉](https://xingwangzhe.fun/posts/osgj-devlog-1-credits/)
 - [黎曼两百年之际，猜想QED之时](https://xingwangzhe.fun/posts/riemann-at-200/)
 - [Orama的再应用，替换Pagefind](https://xingwangzhe.fun/posts/orama-again-replace-pagefind/)
 - [EdgeOne 尾斜杠路由的占位符配置](https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing/)
 - [【AI流水账】我先修好 Thunderbird 的 SSL，再用 Codex 读取东北大学邮箱](https://xingwangzhe.fun/posts/neu-mail-codex-20260909/)
 - [博客第一次接到赞助：聊聊不繁简历](https://xingwangzhe.fun/posts/bufancv-first-sponsorship/)
 - [EdgeOne 与 Cloudflare 海内外分流 CDN](https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/)
-- [我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样](https://xingwangzhe.fun/posts/mozilla-monitor-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
