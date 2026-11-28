@@ -26,13 +26,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 OSGJ 日志二：把战斗调试拆成看得见的场景](https://xingwangzhe.fun/posts/osgj-devlog-2-debuggable-battle/)
 - [《山梨糖醇的通透》](https://xingwangzhe.fun/posts/sorbitol-clearout/)
 - [2026 OSGJ 日志一：〈滚幕〉](https://xingwangzhe.fun/posts/osgj-devlog-1-credits/)
 - [黎曼两百年之际，猜想QED之时](https://xingwangzhe.fun/posts/riemann-at-200/)
 - [Orama的再应用，替换Pagefind](https://xingwangzhe.fun/posts/orama-again-replace-pagefind/)
 - [EdgeOne 尾斜杠路由的占位符配置](https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing/)
 - [博客第一次接到赞助：聊聊不繁简历](https://xingwangzhe.fun/posts/bufancv-first-sponsorship/)
-- [EdgeOne 与 Cloudflare 海内外分流 CDN](https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GPG Public Key
